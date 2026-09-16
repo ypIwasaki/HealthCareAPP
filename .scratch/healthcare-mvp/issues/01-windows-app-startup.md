@@ -32,3 +32,4 @@ Completion: completed (2026-09-16)
 - GitHub 依存先: なし。
 - GitHub 後続 Issue: [#2](https://github.com/ypIwasaki/HealthCareAPP/issues/2)。
 - 2026-09-16: 依存先なしを確認して実装。Python 3.12.14 / PySide6 6.11.2 / PyInstaller 6.22.3 を固定。起動境界の TDD、型チェック、全テスト、Windows ビルド、アイコン起動と終了の実画面確認を実施。手順・結果・コードの読む順番は [Windows 起動手順](../../../docs/windows-startup.md) を参照。保存処理は対象外。Status はトリアージ分類を保持し、完了は Completion とチェックリストで記録。変更はローカルのみ。
+- 2026-09-16: 実装コミット `548c11e` を作業開始時点 `6b5232a` と比較して code-review を実施。Standards 0件、Spec 0件。外部への push・Issue 更新は行っていない。
