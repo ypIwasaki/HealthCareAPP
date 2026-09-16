@@ -1,1 +1,1 @@
-# HelthCareAPP
+# HealthCareAPP
